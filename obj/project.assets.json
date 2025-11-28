@@ -1486,11 +1486,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\disco\\practicaNET\\AccesoUsuariosAPI\\AccesoUsuariosAPI\\AccesoUsuariosAPI.csproj",
+      "projectUniqueName": "C:\\Users\\disco\\Desktop\\Proyectos\\AccesoUsuariosAPI\\AccesoUsuariosAPI.csproj",
       "projectName": "AccesoUsuariosAPI",
-      "projectPath": "C:\\Users\\disco\\practicaNET\\AccesoUsuariosAPI\\AccesoUsuariosAPI\\AccesoUsuariosAPI.csproj",
+      "projectPath": "C:\\Users\\disco\\Desktop\\Proyectos\\AccesoUsuariosAPI\\AccesoUsuariosAPI.csproj",
       "packagesPath": "C:\\Users\\disco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\disco\\practicaNET\\AccesoUsuariosAPI\\AccesoUsuariosAPI\\obj\\",
+      "outputPath": "C:\\Users\\disco\\Desktop\\Proyectos\\AccesoUsuariosAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\disco\\AppData\\Roaming\\NuGet\\NuGet.Config",
