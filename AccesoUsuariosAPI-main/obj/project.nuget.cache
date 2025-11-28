@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I2XpUOlNAufyOULiahB84Ut5NrZjIug4L5nD8IOONy0ckeNfTlGPzFC/YDs9Juvkm5O2aN50DOxA/ZwwR+jrIw==",
+  "dgSpecHash": "xeIJq0IhAZxVyjnp/NXVxLSyFWdoILP7egZd1UMrqpC+4ZMqkaall72cLno4T23w6EDhX8ybJOwcat2ao+C2kQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\disco\\practicaNET\\AccesoUsuariosAPI\\AccesoUsuariosAPI\\AccesoUsuariosAPI.csproj",
+  "projectFilePath": "C:\\Users\\disco\\Desktop\\Proyectos\\AccesoUsuariosAPI\\AccesoUsuariosAPI-main\\AccesoUsuariosAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\disco\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\disco\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
